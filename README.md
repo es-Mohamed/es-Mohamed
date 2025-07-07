@@ -4,10 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7941E&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohamed+Mady;Back-End+Developer;Python+%26+Django+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </h1>
 
-
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 
+   <!-- Links Section -->
+  <br><br>
+  <a href="https://linkedin.com/in/mohamed-mady-940b87264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://mohamedmady.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit My Website-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
 </div>
+
 
 ---
 
