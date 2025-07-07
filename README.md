@@ -39,16 +39,6 @@
 
 </div>
 
----
-
-### 🔥 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Mady/Mohamed-Mady/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ### 👨‍🎓 Learning Journey
 
 - 📚 Currently learning: **MySQL** & **Data Analysis**
