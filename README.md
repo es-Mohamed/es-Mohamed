@@ -12,21 +12,34 @@
 ---
 
 ### 🚀 Tech Stack I Use
-
+### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🔹 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### 🔹 Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🔹 Tools & Editors
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnubash&logoColor=white)
+
+### 🔹 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
@@ -34,8 +47,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mady&show_icons=true&theme=react&hide_border=true" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mady&layout=compact&theme=react&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=es-Mohamed&show_icons=true&theme=react&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-Mohamed&layout=compact&theme=react&hide_border=true" width="47%" />
 
 </div>
 
